@@ -1,4 +1,6 @@
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:171717,100:303030&height=200&section=header&text=HIROTAKA&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Developer%20%E2%80%A2%20Student%20%E2%80%A2%20Programmer&descSize=16&descAlignY=65&animation=fadeIn" /><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&center=true&width=700&lines=Hi,+I'm+Hirotaka+👋;Developer;Always+Building+Something+New" />Developer
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:171717,100:303030&height=200&section=header&text=HIROTAKA&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Developer%20%E2%80%A2%20Student%20%E2%80%A2%20Programmer&descSize=16&descAlignY=65&animation=fadeIn" /><p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&center=true&width=700&lines=Hi,+I'm+Hirotaka+👋;Developer;Student;Always+Building+Something+New" />
+</p>Developer
 
 Building reliable applications, creative projects, and modern digital experiences.
 
@@ -50,14 +52,14 @@ Languages
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hirotakammi-dotcom&theme=tokyo-night&hide_border=true"/>
 </p>📝 Notes
 
-«Clean code over clever code.»
-
-«Build once. Learn forever.»
-
-«Stay curious. Keep improving.»
-
-«Unbothered, Unseen...»
-
-<div align="center"><img src="https://komarev.com/ghpvc/?username=hirotakammi-dotcom&style=for-the-badge&color=black"/><br/><br/>
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:171717,100:303030&height=140&section=header&text=NOTES&fontSize=45&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/></div><p align="center">
+Clean code over clever code.
+</p><p align="center">
+Build once. Learn forever.
+</p><p align="center">
+Stay curious. Keep improving.
+</p><p align="center">
+Unbothered, Unseen...
+</p><div align="center"><img src="https://komarev.com/ghpvc/?username=hirotakammi-dotcom&style=for-the-badge&color=black"/><br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:303030,100:000000&height=100&section=footer"/></div>
