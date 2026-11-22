@@ -1,16 +1,71 @@
-## Hi there 👋
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:171717,100:303030&height=200&section=header&text=HIROTAKA&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Developer%20%E2%80%A2%20Student%20%E2%80%A2%20Programmer&descSize=16&descAlignY=65&animation=fadeIn" /><p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&center=true&width=700&lines=Hi,+I'm+Hirotaka+👋;Developer;Student;Always+Building+Something+New" />
+</p>Developer
 
-<!--
-**hirotakammi-dotcom/hirotakammi-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building reliable applications, creative projects, and modern digital experiences.
 
-Here are some ideas to get you started:
+</div>---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+- 🎓 Student
+- 💻 Developer
+- 🌐 Web Development Enthusiast
+- 🤖 Interested in Discord Bot Development
+- 🐍 Exploring Python and JavaScript
+- ⚡ Always learning new technologies
+- 🌍 Philippines
+
+---
+
+🌐 Connect
+
+«🌍 Website: Coming Soon...»
+
+«💬 Discord: Add your Discord username»
+
+«⭐ GitHub: "hirotakammi-dotcom" (https://github.com/hirotakammi-dotcom)»
+
+---
+
+💻 Tech Stack
+
+Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python"/>
+</p>Runtime & Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,react"/>
+</p>Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,supabase"/>
+</p>Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,cloudflare"/>
+</p>---
+
+📊 GitHub Stats
+
+<p align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=hirotakammi-dotcom&show_icons=true&theme=tokyonight&hide_border=true"/><img width="49%" src="https://streak-stats.demolab.com?user=hirotakammi-dotcom&theme=tokyonight&hide_border=true"/></p><p align="center"><img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirotakammi-dotcom&layout=compact&theme=tokyonight&hide_border=true"/></p>---
+
+📈 Activity Graph
+
+<p align="center"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hirotakammi-dotcom&theme=tokyo-night&hide_border=true"/></p>---
+
+📌 Notes
+
+«Clean code over clever code.»
+
+«Build once. Learn forever.»
+
+«Unbothered, Unseen...»
+
+---
+
+<div align="center"><img src="https://komarev.com/ghpvc/?username=hirotakammi-dotcom&style=for-the-badge&color=black" /><br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:303030,100:000000&height=100&section=footer"/></div>
